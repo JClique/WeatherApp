@@ -1,6 +1,6 @@
 # WeatherApp
 
-WeatherApp is a basic front-end application created using Vue JS.
+WeatherApp is a basic front-end application created using Vue JS. You can preview it here - <a href="http://jclique-weatherapp.s3-website.eu-west-2.amazonaws.com/"> WeatherApp </a>
 
 It connects to Open Weather Map API (https://openweathermap.org/) and presents the current weather based on user input.
 
